@@ -1,4 +1,3 @@
-<markdown>
 #JavaScript Lecture 1 Walkthrough 
 Web development can be explained and understood by thinking of it like a resturant. The frontend is the dining area customers interact with, while the backend is the kitchen doing the hidden work. APIs and HTTP act like the waiter and menu, carrying requests and responses between the customer and kitchen.
 
