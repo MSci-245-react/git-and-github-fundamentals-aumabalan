@@ -20,4 +20,4 @@ true
 - experience in MySQL
 - get experience in react
 
-Im using `const`.
+I'm using `const`.
